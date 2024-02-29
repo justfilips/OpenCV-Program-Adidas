@@ -1,7 +1,11 @@
 -------INSTALLATION-------------
+
 pip install opencv-python
+
 pip install imutils
+
 pip install pillow
+
 
 files from haarcascades folder must be downloaded and placed in C:\Users\user\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\cv2\data
 
