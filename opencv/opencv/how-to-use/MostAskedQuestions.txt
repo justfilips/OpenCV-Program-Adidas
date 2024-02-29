@@ -1,0 +1,8 @@
+1. Can there be several people in one picture?
+No, the application is only for one person at a time.
+
+2. Will the application be available on the most popular mobile platforms, such as iOS and Android?
+Currently, the application is not yet available on iOS and Android systems.
+
+3. What solutions are provided in case the application does not work or there are technical problems?
+If you have any technical problems, please contact us and we will solve them.
